@@ -1,5 +1,12 @@
 ### Hi there 👋
-I'm Ritwik, a java and python developer trained on AWS Academy for Cloud Architecting. Currently preparing for AWS Solutions Architect Associate (AWS SAA C02). Also trained in DevOps and Linux System Administration. Actively looking for jobs in AWS and DevOps.
+I'm Ritwik, a DevOps engineer .
+- 🐉 A python developer trained on AWS Academy for Cloud Architecting. 
+- 🔭 I’m currently working on: #100DaysOfPython
+- 🌱 Currently preparing for AWS Solutions Architect Associate (AWS SAA C03). 
+- 👨‍💻 Heavily trained in DevOps and Linux System Administration. 
+- ⚡ Actively looking for new opportunities in AWS and DevOps.
+
+- 📫 How to reach me: 
 
 <!--
 **ritw237/ritw237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
