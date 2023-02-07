@@ -1,9 +1,9 @@
 ### Hi there 👋
 I'm Ritwik, a DevOps engineer .
 - 🐉 A python developer trained on AWS Academy for Cloud Architecting. 
-- 🔭 I’m currently working on: #100DaysOfPython
+- 🔭 I’m currently working on: [#100DaysOfPython](https://github.com/ritw237/100-Days-Of-Python)
 - 🌱 Currently preparing for AWS Solutions Architect Associate (AWS SAA C03). 
-- 👨‍💻 Heavily trained in DevOps and Linux System Administration. 
+- 👨‍💻 Trained in DevOps and Linux System Administration. 
 - ⚡ Actively looking for new opportunities in AWS and DevOps.
 
 - 📫 How to reach me: 
