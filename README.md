@@ -10,6 +10,7 @@ I'm Ritwik, a DevOps engineer .
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/RitwikSrivastava#0369)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritwiksrivast11)
 
+![gitartwork](gitartwork.svg)
 
 <!--
 **ritw237/ritw237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
