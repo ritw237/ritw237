@@ -13,7 +13,12 @@ I'm Ritwik, a DevOps engineer .
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritwiksrivast11)
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ritw237)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ritw237&theme=dark)](https://git.io/streak-stats)
+![Github stats](https://github-readme-stats-rim8gahjf-ritw777.vercel.app/api?username=ritw237&show_icons=true&theme=synthwave)
+
+![](https://komarev.com/ghpvc/?username=ritw237&color=blueviolet&style=plastic)
+![](https://visitor-badge.glitch.me/badge?page_id=ritw237.ritw237)
+
 
 
 
