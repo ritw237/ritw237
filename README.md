@@ -20,6 +20,15 @@ I'm Ritwik, a DevOps engineer .
 
 
 
+<a href="https://github.com/ritw237">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritw237&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/ritw237">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritw237&theme=dark" />
+</a>
+
+
+
 
 
 
