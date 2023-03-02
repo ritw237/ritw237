@@ -1,5 +1,7 @@
 ![gitartwork](gitartwork.svg)
 
+![](https://komarev.com/ghpvc/?username=ritw237&color=blueviolet&style=plastic)
+![](https://visitor-badge.glitch.me/badge?page_id=ritw237.ritw237)
 ### Hi there 👋
 I'm Ritwik, a DevOps engineer .
 - 🐉 A python developer trained on AWS Academy for Cloud Architecting. 
@@ -16,8 +18,7 @@ I'm Ritwik, a DevOps engineer .
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ritw237&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ritw237&theme=dark)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=ritw237&color=blueviolet&style=plastic)
-![](https://visitor-badge.glitch.me/badge?page_id=ritw237.ritw237)
+
 
 
 
